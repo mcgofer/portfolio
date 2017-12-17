@@ -12,6 +12,13 @@ h1 {
 p {
     font-style: italic;
 }
+
+div {
+    background-color: white;
+    float: left;
+    width: 50%;
+    padding: 25px;
+}
 img {
     border-radius: 50%;
     float: right;
